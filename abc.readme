@@ -1,3 +1,7 @@
 this is github file
 from clone directory
+<<<<<<< HEAD
 abc
+=======
+abcd abcd
+>>>>>>> iss53
